@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @m4rc3l-h3
 - 👀 I’m interested in software development using Python
 - 🌱 I’m currently learning Python and Git
-- 💞️ I’m looking to collaborate on an interesting library, because I liked the idea of open-source software.
+- 💞️ I’m looking to collaborate on interesting libraries, because I would liked to support open-source software development.
 - 📫 How to reach me ...
 
 <!---
