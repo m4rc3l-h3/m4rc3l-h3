@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @m4rc3l-h3
 - 👀 I’m interested in software development using Python
-- 🌱 I’m currently learning Python, Git, Kubernetes, Jenkins, Ansible, and many more
+- 🌱 I’m currently working with and learning something new in areas such as Python, Kubernetes/Microk8s, Jenkins, Ansible, and many more
 - 💞️ I’m looking to collaborate on interesting libraries, because I would liked to support open-source software development.
 - 📫 How to reach me ...
 
